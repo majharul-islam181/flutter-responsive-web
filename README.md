@@ -12,9 +12,10 @@ A new Flutter project.
 ## Github link : https://github.com/HeyFlutter-Public/responsive-design-a-complete-course/blob/main/lib/widgets/place_details_widget.dart
 
 
-##  After  : 
-https://www.youtube.com/watch?v=fVZqxpNdD6c&ab_channel=HeyFlutter%E2%80%A4com
+##  After  : https://www.youtube.com/watch?v=fVZqxpNdD6c&ab_channel=HeyFlutter%E2%80%A4com
 
+
+## Then : https://www.youtube.com/watch?v=BAc5OHF3emU&ab_channel=CodeCrave
 
 
 This project is a starting point for a Flutter application.
